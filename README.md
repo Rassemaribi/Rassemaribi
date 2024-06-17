@@ -1,7 +1,7 @@
--👋 Bonjour, je suis @Rassemaribi
--👀 Passionné par le développement
--🌱 Actuellement en apprentissage de l'IA
--💞️ Ouvert à des collaborations avec des entreprises
+-👋 Bonjour, je suis @Rassemaribi                               
+-👀 Passionné par le développement                          
+-🌱 Actuellement en apprentissage de l'IA                             
+-💞️ Ouvert à des collaborations avec des entreprises                     
 -📫 Vous pouvez me contacter pour des compétences spécifiques
 
 <!---
